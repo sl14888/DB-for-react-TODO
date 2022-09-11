@@ -1,0 +1,121 @@
+{
+  "lists": [
+    {
+      "id": 2,
+      "name": "Фронтенд",
+      "colorId": 4
+    },
+    {
+      "id": 5,
+      "name": "Личное!",
+      "colorId": 1
+    },
+    {
+      "name": "Спорт",
+      "colorId": 3,
+      "id": 6
+    },
+    {
+      "name": "Курс по ReactJS ToDo",
+      "colorId": 7,
+      "id": 7
+    },
+    {
+      "name": "vf",
+      "colorId": 1,
+      "id": 11
+    }
+  ],
+  "tasks": [
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": false
+    },
+    {
+      "listId": 7,
+      "text": "Сделали сайдбар",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "listId": 7,
+      "text": "Сделали список задач",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "listId": 7,
+      "text": "Сделали удаление и редактирование задач и списков",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "listId": 5,
+      "text": "личная задача",
+      "completed": false,
+      "id": 30
+    },
+    {
+      "listId": 2,
+      "text": "Выучить Javascript",
+      "completed": true,
+      "id": 34
+    },
+    {
+      "listId": 2,
+      "text": "Изучить Redux",
+      "completed": false,
+      "id": 35
+    },
+    {
+      "listId": 2,
+      "text": "Выучить TypeScript",
+      "completed": true,
+      "id": 36
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
