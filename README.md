@@ -1,2 +1,2 @@
 # DB-for-react-TODO
-testing
+deploy DB for https://my-json-server.typicode.com/sl14888/DB-for-react-TODO
